@@ -1,0 +1,10 @@
+= \rb_webcam
+Crossplatform video capture library for Ruby. Powered by OpenCV.
+
+home :: https://github.com/TyounanMOTI/rb_webcam
+rdoc :: https://github.com/TyounanMOTI/rb_webcam
+bugs :: https://github.com/TyounanMOTI/rb_webcam/issues
+
+== Description
+
+TODO
